@@ -1,0 +1,14 @@
+.topnav li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.topnav {
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+    min-height: 60px;
+}
+
+.topnav.nav {
+
+}
